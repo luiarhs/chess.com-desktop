@@ -12,7 +12,7 @@
   "author": "luiarhs",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.7.6"
+    "electron": "^1.7.11"
   },
   "devDependencies": {
     "electron-packager": "^9.1.0"
